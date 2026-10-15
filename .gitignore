@@ -1,0 +1,9 @@
+# Secrets — never commit!
+.env
+
+# Local message fallback
+messages/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
